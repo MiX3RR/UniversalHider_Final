@@ -1,0 +1,38 @@
+# 🎮 Игры
+com.tencent.ig                    # PUBG Mobile
+com.pubg.newstate                 # PUBG New State
+com.garena.game.kgvn              # Free Fire
+com.activision.callofduty.shooter # Call of Duty: Mobile
+
+# 💰 Банковские приложения (Россия, Молдова, Европа)
+com.sberbankmobile                # Сбербанк
+ru.tinkoff.mobile                 # Тинькофф
+
+#EU
+com.revolut.revolut               # Revolut
+
+# 🇲🇩 Молдавские банки
+md.mdplc.moldindconbank           # Moldindconbank
+md.bcr.moldova                    # BCR Chisinau
+md.eximbank                       # Eximbank Moldova
+md.mobiasbanca                    # Mobiasbanca
+md.maib.mobilebanking             # MAIB (Moldova Agroindbank)
+md.victoriabank.mobilebanking     # Victoriabank
+md.fincombank.mobileapp           # FinComBank
+
+# 📺 Видео и стриминг
+com.netflix.mediaclient          
+com.amazon.avod.thirdpartyclient 
+com.google.android.youtube       
+com.hbo.hbonow                   
+
+# 🛡️ Защита и системы
+com.google.android.gms           
+com.google.android.apps.walletnfcrel 
+com.samsung.android.knox         
+com.huawei.securitymgr           
+
+# 🌐 VPN и безопасность
+com.expressvpn.vpn               
+com.nordvpn.android              
+com.lastpass.lpandroid           
