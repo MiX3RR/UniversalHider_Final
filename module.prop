@@ -1,6 +1,0 @@
-id=universal_hider
-name=[M|KSU]UniversalRootHider
-version=2.0
-versionCode=200
-author=MiXeRR & AIIT
-description=Hide Root, ADB, TWRP, DevOptions for selected apps via KernelSU or Magisk. Denylist & props customizable. Safe for SELinux Enforcing.
